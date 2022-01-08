@@ -1,0 +1,16 @@
+{
+    "name": "daniel/hello-world",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Daniel\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Francesch",
+            "email": "daniel@greenflame.com.ar"
+        }
+    ],
+    "require": {}
+}
