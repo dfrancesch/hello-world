@@ -1,9 +1,9 @@
 {
-    "name": "daniel/hello-world",
+    "name": "dfrancesch/hello-world",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Daniel\\HelloWorld\\": "src/"
+            "dfrancesch\\HelloWorld\\": "src/"
         }
     },
     "authors": [
