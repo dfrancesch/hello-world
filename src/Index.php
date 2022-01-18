@@ -1,6 +1,6 @@
 <?php 
 
-namespace dafrancesch\HelloWorld;
+namespace dfrancesch\HelloWorld;
 
 class Index
 {
